@@ -37,7 +37,7 @@ The dashboard helps track:
 ---
 
 ## 📷 Dashboard Preview
-![Restaurant Performance Dashboard](restaurant_performance_dashboard.jpg)
+[![Restaurant Performance Dashboard](restaurant_performance_dashboard.jpg)](https://github.com/ammoferi/restaurant-performance-dashboard/blob/main/images%3Arestaurant_performance_dashboard.jpg)
 
 ---
 
